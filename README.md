@@ -1,4 +1,18 @@
-### Hi there 👋
+### gbilder
+
+The easiest way to reach me (circa 2024) is:
+
+`gbilder` at 
+
+`gbilder`
+
+`dot`
+
+`com`
+
+
+My site.
+[Louche Cannon](https://gbilder.com)
 
 <!--
 **gbilder/gbilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

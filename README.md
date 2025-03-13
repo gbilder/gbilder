@@ -1,6 +1,6 @@
 ### gbilder
 
-The easiest way to reach me (circa 2024) is:
+The easiest way to reach me (circa 2025) is:
 
 `gbilder` at 
 
